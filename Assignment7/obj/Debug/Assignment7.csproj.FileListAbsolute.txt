@@ -1,0 +1,8 @@
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.AssemblyReference.cache
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.SuggestedBindingRedirects.cache
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+F:\Sql Sever Assignments\Day7(21-08-23)\Assignment7\Soln\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
